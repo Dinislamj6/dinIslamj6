@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Din%20Islam%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Din%20Islam%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- 👋 Typing Animation -->
@@ -81,4 +81,4 @@
 
 ---
 
-⭐️ From [DinIslamKhan](https://github.com/Dinislamj6)
+⭐️ From [DinIslam](https://github.com/Dinislamj6)
